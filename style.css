@@ -1,0 +1,97 @@
+.Home-Body{
+	padding-top: 10em;
+	margin-bottom: 29%;
+}
+.hero-text h1 {
+  
+  color: white;
+  font-size: 72px;
+  
+ }
+
+
+ @media only screen and (max-width: 414px) {
+   .Home-Body{
+   color: white;
+  font-size: 15px;
+  padding-bottom: 5em;
+}  
+ 
+}
+@media only screen and (max-width: 414px) {
+   .Home-Body h1{
+   color: white;
+  font-size: 42px;
+}  
+}
+
+.special1{
+	font-size: 18px;
+	font-family: Poppins;
+	font-weight: bold;
+	color: white;
+}
+
+@media only screen and (max-width: 414px) {
+   .special1{
+	font-size: 12px;
+	font-family: Poppins;
+	font-weight: bold;
+	color: white;
+}
+}
+.container-fluid{
+	background-image: url("hero-image.jpg");
+	padding-bottom: 3em;
+}
+
+.aboutme button{
+
+}
+
+@media only screen and (max-width: 414px) {
+	.aboutme img{
+		 display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+  		width: 50%;
+  		height: 400px;
+  		width: 300px;
+  		margin-bottom: 4%;
+
+	}
+	.aboutme p,h1{
+		
+		text-align: center;
+
+	}
+}
+
+@media only screen and (max-width: 414px) {
+.profile h2{
+	text-align: center;
+}
+
+}
+
+@media only screen and (max-width: 414px) {
+.fafa{
+	text-align: center;
+}
+
+}
+
+@media only screen and (max-width:480px){
+  .jumbotron div{
+    font-size: 5.7rem;
+    text-align: center;
+}
+
+footer .glyphicon {
+  font-size: 20px;
+  margin-bottom: 20px;
+  color: #f4511e;
+}
+
+
+
